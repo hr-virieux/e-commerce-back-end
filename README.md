@@ -25,6 +25,7 @@ The E-commerce Back End is developed to provide a robust back-end system for int
   ```
   SOURCE C:/path_to_directory/db/schema.sql;
   SOURCE C:/path_to_directory/db/seeds.sql;
+  ```
 
 ## Usage
 - Start the server with:
